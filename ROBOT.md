@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: jkcrbn
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "jkcrbn",
+    "Category": "food+shelter" 
+}
